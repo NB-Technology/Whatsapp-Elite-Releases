@@ -1,2 +1,2 @@
 # Whatsapp-Elite-Releases
-Instaláveis do WhatsApp Elite (usado pela atualização automática do app). O código fica em repositório privado.
+Instaláveis do WhatsappSender (antes WhatsApp Elite), usados pela atualização automática do app. Para instalar, baixe o `WhatsappSender-win-x64.zip` da [última versão](https://github.com/NB-Technology/Whatsapp-Elite-Releases/releases/latest). O código fica em repositório privado.
